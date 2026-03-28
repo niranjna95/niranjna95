@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Niranjan+Kumar;Full+Stack+Developer;Backend+Developer;Mobile+Developer;Node.js+%7C+ASP.NET+%7C+React+%7C+Next.js&center=true&width=700&height=45&duration=3000&pause=1000">
+</p>
+
+<h1 align="center">Niranjan Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | Backend Developer | Mobile Developer</h3>
+
+---
+
+## 🧠 About Me
+
 # 🧰 Tech Stack
 
 ## ⚙️ Backend
