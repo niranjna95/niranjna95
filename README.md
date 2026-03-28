@@ -9,6 +9,13 @@
 
 ## 🧠 About Me
 
+- 💻 Full Stack Developer with strong backend expertise  
+- 🏗 Experienced in building scalable production architectures  
+- 🔐 Implemented authentication & authorization systems  
+- ☁️ Experience with Azure Cloud Infrastructur  
+- 🤖 Exploring AI integrations and developer tools  
+
+---
 # 🧰 Tech Stack
 
 ## ⚙️ Backend
