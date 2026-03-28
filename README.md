@@ -55,3 +55,16 @@
 ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
 ![Azure Storage](https://img.shields.io/badge/Azure_Storage-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🧩 Engineering Focus
+
+- Clean Architecture  
+- Microservices  
+- REST API Design  
+- Authentication & Authorization  
+- JWT Security  
+- Real-time systems  
+- Scalable backend architecture  
+- Database performance optimization  
