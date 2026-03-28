@@ -96,5 +96,5 @@
 ## 🚀 Top Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan95&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjna95&layout=compact&theme=tokyonight" />
 </p>
