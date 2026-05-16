@@ -66,5 +66,5 @@
 
 ## 📫 Connect With Me
 
-- GitHub: your-github-link
-- LinkedIn: your-linkedin-link
+- GitHub: [your-github-link](https://github.com/niranjna95/niranjna95)
+- LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/niranjan-kumar-8105a2134/)
